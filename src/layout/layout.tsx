@@ -17,7 +17,7 @@ function Layout() {
   return (
     <div className="bg-primary w-full h-[100vh] overflow-hidden overflow-x-hidden relative">
       <div className="bg-white w-[100%] mx-auto max-w-[1380px] m-4 h-[95vh] rounded-3xl  overflow-hidden overflow-x-hidden">
-        <header className="flex justify-between items-center px-4 py-1 bg-black m-2 rounded-full">
+        <header className="flex justify-between items-center px-4 py-1 bg-secondary m-2 rounded-full">
           <div className="flex text-white items-center justify-center gap-2">
             <FaLaptopCode size={26} />
             <div>

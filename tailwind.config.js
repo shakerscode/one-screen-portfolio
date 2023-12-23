@@ -9,13 +9,14 @@ module.exports = {
   ],
   theme: {
     colors: {
-      primary: "#0c0e66",
+      primary: "#0f172a",
       secondary: "#5f59f7",
       deepBlue: "#6592fd",
       lightBlue: "#44c2fd",
       purple: "#44c2fd",
       white:"#ffffff",
-      black:"#000000"
+      black:"#000000",
+      blue950:"#172554"
     },
     container: {
       center: true,
