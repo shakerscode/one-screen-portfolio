@@ -16,7 +16,8 @@ module.exports = {
       purple: "#44c2fd",
       white:"#ffffff",
       black:"#000000",
-      blue950:"#172554"
+      blue950:"#172554",
+      bgSuccess:"#10b981"
     },
     container: {
       center: true,
