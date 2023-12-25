@@ -10,14 +10,17 @@ module.exports = {
   theme: {
     colors: {
       primary: "#0f172a",
-      secondary: "#5f59f7",
+      // secondary: "#5f59f7",
+      secondary: "#14b8a6",
+      // secondary: "#d9f99d", //yellowis
       deepBlue: "#6592fd",
       lightBlue: "#44c2fd",
       purple: "#44c2fd",
       white:"#ffffff",
       black:"#000000",
       blue950:"#172554",
-      bgSuccess:"#10b981"
+      bgSuccess:"#10b981",
+      gray400:"#9ca3af"
     },
     container: {
       center: true,
